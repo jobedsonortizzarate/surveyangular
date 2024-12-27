@@ -171,7 +171,7 @@ const surveyJson = {
         "el átomo",
         "el hígado"
       ],
-      correctAnswer: "el átomo"
+      correctAnswer: "la célula."
     }]
   },
 
